@@ -52,7 +52,7 @@ model = Sequential([
 - **Variabilidad**:
     - Diferentes angulos
     - Distintas iluminaciones
-    ```
+    
 
 ## 3. Operaciones morfologicas en procesamiento de imagenes
 **¿Qué son?**
